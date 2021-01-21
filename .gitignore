@@ -1,0 +1,12 @@
+# Autodesk old versions
+OldVersions/
+*.ipj
+
+# EAGLE old versions
+*.b#*
+*.s#*
+*.epf
+*.l#*
+
+# Lock Files
+*.lck
